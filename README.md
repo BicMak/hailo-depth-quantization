@@ -1,1 +1,0 @@
-# hailo-depth-quantization
