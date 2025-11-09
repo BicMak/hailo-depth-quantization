@@ -1,0 +1,7 @@
+Collecting nvidia-cudnn-cu12
+  Downloading nvidia_cudnn_cu12-9.14.0.64-py3-none-manylinux_2_27_x86_64.whl.metadata (1.8 kB)
+Requirement already satisfied: nvidia-cublas-cu12 in ./HailoParsing/lib/python3.12/site-packages (from nvidia-cudnn-cu12) (12.3.4.1)
+Downloading nvidia_cudnn_cu12-9.14.0.64-py3-none-manylinux_2_27_x86_64.whl (647.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 647.1/647.1 MB 14.6 MB/s eta 0:00:00
+Installing collected packages: nvidia-cudnn-cu12
+Successfully installed nvidia-cudnn-cu12-9.14.0.64
