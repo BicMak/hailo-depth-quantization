@@ -8,7 +8,8 @@
 * Fill the gap in quantization research for depth estimation tasks in Hailo NPU application (most prior work focuses on object detection and segmentation)
 
 ## 2. Dataset
-![alt text](image.png)
+<img width="2985" height="1219" alt="image" src="https://github.com/user-attachments/assets/f528e7c4-c437-4710-8602-79b65ee90842" />
+
 * **Dataset**: DA-2K dataset used for depth estimation evaluation
 * **Rationale**: Selected because it aligns with state-of-the-art models like Depth Anything
 * **Preprocessing**: Images resized to [3, 256, 256] format only. No additional preprocessing applied as the model includes normalization in its input layer
@@ -42,7 +43,8 @@
 ## 5. Experimental Results
 
 ### 5.1 Quantitative Evaluation
-![alt text](image-1.png)
+<img width="2000" height="800" alt="result_figure" src="https://github.com/user-attachments/assets/a6d40e34-7a77-490c-9712-65883781faaa" />
+
 Evaluation metrics computed on 1,024 test images using scale-matched comparison (following KITTI benchmark standards).
 
 | Metric |  Quantized (INT8) |
