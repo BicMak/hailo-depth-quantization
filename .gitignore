@@ -1,0 +1,12 @@
+runs/
+src/legacy/
+__pycache__/
+*.log
+DA-2K/
+LOG/
+MIDAS_model/
+runs/
+*.har
+*.npy
+*.hef
+*.html
